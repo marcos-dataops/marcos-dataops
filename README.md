@@ -1,4 +1,4 @@
-# Hi there, I'm Marcos V. F. Guimarães 👋
+# Hi there, I'm Marcos Guimarães 👋
 
 **Data Engineer | Backend Developer | Tech Veteran**
 
